@@ -10,5 +10,4 @@ opencv-python>=4.8.0
 scikit-image>=0.21.0
 
 # Optional: For advanced features
-# xgboost>=1.7.0
-# lightgbm>=3.3.0
+xgboost>=1.7.0

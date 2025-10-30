@@ -1,18 +1,15 @@
-# Minecraft Biome Classification
+# Blockography.AI
 
-Welcome to ACM AI's Fall 2025 Competition, \<Name\>!
-
-DEV: (delete later)
-
-Dataset Link: <https://www.kaggle.com/datasets/willowc/minecraft-biomes>
-
-Biome Detector: <https://github.com/willowec/biome_detector>
+Welcome to ACM AI's Fall 2025 Competition, **Blockography.AI**!
 
 ## Table of Contents
 
-[TOC]
 
 ## Setup
+
+```shell
+git clone
+```
 
 ## Repo Structure
 
