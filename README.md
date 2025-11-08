@@ -4,10 +4,12 @@
 
 Welcome to ACM AI's Fall 2025 Competition, **Blockography.AI**! In this competition, you will train your models to classify Minecraft biomes from real gameplay images. Compete against your peers to win Qualcomm Rubik Pi 3's, and get a chance to network with Qualcomm engineers!
 
->[!INFO] **Important:** How to get help
-> There are a few ways to get help, so you can pick the way the works best for you:
-> - *Discord*: You can reach us on Discord in the #ai channel.
-> - *In-person*: you can find us in the Fishbowl, which is room B225 in the basement of the CSE building. We'll also be periodically walking around.
+> [!IMPORTANT]
+> **How to get help**
+>
+> There are a few ways to get help, so you can pick the way that works best for you:
+> - Discord: You can reach us on Discord in the #ai channel.
+> - In person: You can find us in the Fishbowl (room B225 in the basement of the CSE building). We'll also be periodically walking around.
 
 ## Competition Timeline
 
