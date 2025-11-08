@@ -31,7 +31,7 @@ def load_eval_data(data_dir='../eval_data', half=False):
         if img is None:
             continue
         if half:
-            img = cv2.resize(img, fx=0.5, fy=0.5, interpolation=cv2.INTER_AREA)
+            img = cv2.resize(img, None, fx=0.5, fy=0.5, interpolation=cv2.INTER_AREA)
         X.append(img)
         file_ids.append(img_name)
     return X, file_ids

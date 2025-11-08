@@ -41,3 +41,4 @@ def green_pixel_ratio(img):
     upper_green = np.array([86, 255,255])
     mask = cv2.inRange(hsv, lower_green, upper_green)
     return np.sum(mask > 0) / mask.size
+
